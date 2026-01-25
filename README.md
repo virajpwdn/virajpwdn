@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm abc</h1>
-<h3 align="center">Full Stack Developer | AI/GenAI Specialist | DevOps Engineer | AWS | Kubernetes</h3>
+<h1 align="center">Hey 👋, I'm Viraj</h1>
+<h3 align="center">Full Stack Developer | AI Architect | DevOps Engineer | AWS | Kubernetes</h3>
 
 ---
 
@@ -9,13 +9,9 @@
   <tr>
     <td valign="top" width="60%">
 <ul>
-  <li>🔭 Designing and developing full-stack applications with AI-driven features and real-time data processing capabilities</li>
-  <li>🤖 Architecting scalable AI solutions leveraging Retrieval-Augmented Generation (RAG), multi-agent systems, and LangGraph orchestration</li>
-  <li>☸️ Managing containerized microservices on Kubernetes with automated CI/CD pipelines for continuous deployment and integration</li>
-  <li>📊 Implementing comprehensive observability solutions using Prometheus, Grafana, and Loki for production monitoring and alerting</li>
-  <li>🛠️ Full-stack expertise: MERN stack, TypeScript, Docker, Jenkins, AWS EC2, payment gateway integrations</li>
-  <li>🎯 Committed to advancing proficiency across the full development lifecycle—from ML architecture to enterprise-grade production deployments</li>
-  <li>⚡ Proven experience deploying production-ready AI applications on Kubernetes clusters with high availability configurations</li>
+  <li>🚀 Full-stack developer building AI-powered applications with MERN, TypeScript, Docker, and AWS. Expertise in RAG, multi-agent systems, and LangGraph orchestration</li>
+  <li>☸️ DevOps specialist managing Kubernetes deployments with CI/CD pipelines (Jenkins) and production monitoring (Prometheus, Grafana, Loki)</li>
+  <li>⚡ Transforming ideas into scalable, production-ready solutions with a focus on AI integration and infrastructure excellence</li>
 </ul>
 </td>
 <td align="center" width="40%">
@@ -119,25 +115,24 @@ I've built comprehensive projects implementing these advanced technologies:
 
 ---
 
-### 📈 GitHub Contributions
 
-<p align="center">
+<!-- <p align="center" heading="GitHub Contributions">
   <img src="https://github-readme-stats.vercel.app/api?username=virajpwdn&count_private=true&show_icons=true&theme=transparent&hide=prs,issues,stars" alt="GitHub Stats" />
-</p>
+</p> -->
 
 ---
 
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/abc" target="_blank" rel="noopener noreferrer">
+  <a href="www.linkedin.com/in/viraj-patwardhan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:virajpatwardhan6@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/abc" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://x.com/async_awaait" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
