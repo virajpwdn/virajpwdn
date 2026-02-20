@@ -1,7 +1,7 @@
-# Hi, I'm Viraj 👋
+Hi, I'm Viraj 👋
 
-I like to code.
+I breathe TypeScript and exhale JavaScript.
 
-<div align="center">
+<div align="start">
   <i>"It works on my machine... That's why we have Docker."</i>
 </div>
